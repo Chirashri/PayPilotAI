@@ -10,7 +10,7 @@ It combines **PayPal Sandbox**, **Google Gemini AI**, **MongoDB Atlas**, and **R
 
 ## 🌐 Live Demo
 
-### 🔗 [[Launch PayPilot AI](https://paypilot-ai-liart.vercel.app/](https://paypilot-ai-git-main-chirashris-projects.vercel.app/))
+### 🔗 [(https://paypilot-ai-git-main-chirashris-projects.vercel.app/)]
 
 **Frontend:** Vercel  
 **Backend:** Render  
